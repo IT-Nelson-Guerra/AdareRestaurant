@@ -1,0 +1,152 @@
+html {
+    height: 100%;
+}
+
+
+/*---------------------------------------------------------- */
+
+
+/* HEADINGS */
+
+h1 {
+    font-size: 84px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+h2 {}
+
+
+/* PARAGRAPHS */
+
+p {
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+/*---------------------------------------------------------- */
+
+
+/* LINKS */
+
+a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+/*---------------------------------------------------------- */
+
+
+/* DIVS */
+
+
+/*Container is used for containing many items at once**/
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+
+/*---------------------------------------------------------- */
+
+
+/* BODY */
+
+body {
+    background-color: #2f3035;
+    background-image: url(/images/background-adare-restaurant.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+/*---------------------------------------------------------- */
+
+
+/* HEADER */
+
+header {
+    height: 118px;
+    width: 1024px;
+    text-align: center;
+}
+
+
+/*---------------------------------------------------------- */
+
+
+/* NAV */
+
+nav {
+    background-color: rgba(0, 0, 0, 0.330);
+    width: 1024px;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+}
+
+
+/*---------------------------------------------------------- */
+
+
+/* MAIN */
+
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 80px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+
+/*---------------------------------------------------------- */
+
+
+/* SECTIONS */
+
+.maps {
+    padding-bottom: 50px;
+}
+
+
+/*---------------------------------------------------------- */
+
+
+/* FOOTER */
+
+footer {
+    background-color: rgba(0, 0, 0, 0.699);
+    width: 1024px;
+}
+
+.footer-words {
+    font-size: 10px;
+    text-align: center;
+    padding-top: 45px;
+    padding-bottom: 45px;
+    color: rgb(172, 171, 171);
+}
+
+
+/*---------------------------------------------------------- */
+
+
+/*---------------------------------------------------------- */
+
+
+/* NESTED DIVS */
